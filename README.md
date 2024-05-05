@@ -19,3 +19,6 @@ $ docker compose watch
 Attaching to redis-1, web-1 watch enabled
 
 ...
+
+### Referencia para construír el Template
+[[https://docs.docker.com/compose/gettingstarted/]]
